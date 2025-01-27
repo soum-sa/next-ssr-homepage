@@ -4,8 +4,6 @@ import useEmblaCarousel from "embla-carousel-react";
 import { useTranslations } from "next-intl";
 import { InView } from "react-intersection-observer";
 
-import { useI18nStore } from "@app/store";
-import { HomepageDataResponse } from "@data-interface/contracts";
 import {
   useDotButton,
   CarouselDotButton,
@@ -21,6 +19,8 @@ import {
   emblaStyle,
 } from "../Upper/UpperBanners/UpperBanners.styled";
 import { DesktopMiddleBannerImage } from "./DesktopMiddleBannerImage";
+import { HomepageDataResponse } from "@src/contracts";
+import { useI18nStore } from "@src/i18n/useI18nStore";
 
 export const DesktopMiddleBanner = ({
   banners,

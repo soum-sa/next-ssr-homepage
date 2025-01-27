@@ -1,9 +1,8 @@
-import { DomainGetBrandList } from "@domain/usecases";
+import { DomainGetBrandListModel, GetBrandListModel } from "@src/types";
 import { createSafeUrl } from "./createSafeUrl";
-import { GetBrandList } from "@data/usecases";
 
 export const getBrandFromDomainGetBrandListModel = (
-  brands: DomainGetBrandList.Model[],
+  brands: DomainGetBrandListModel[],
   brandName: string,
   currentCategoryId: string
 ) => {
@@ -22,7 +21,7 @@ export const getBrandFromDomainGetBrandListModel = (
 };
 
 export const getBrandFromGetBrandListModel = (
-  brands: GetBrandList.Model[],
+  brands: GetBrandListModel[],
   brandName: string,
   currentCategoryId: string
 ) => {

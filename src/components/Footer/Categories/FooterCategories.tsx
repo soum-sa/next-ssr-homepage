@@ -4,7 +4,6 @@ import { useTranslations } from "next-intl";
 
 import { Link as NextLink } from "@src/i18n/routing";
 import { useI18nStore } from "@src/i18n/useI18nStore";
-import { FooterChevronRight } from "@/src/icons";
 
 import {
   categoryContainer,
@@ -16,6 +15,7 @@ import {
 import { TOP_CATEGORIES } from "../constants";
 import { Category } from "../Footer.types";
 import { FOOTER_CATEGORY_TITLES } from "./constants";
+import { FooterChevronRight } from "@src/styles/icons";
 
 export function FooterCategories() {
   const t = useTranslations("footer");

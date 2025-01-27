@@ -21,9 +21,10 @@ import { getCategoryIcon } from "../icons";
 import { useCategoryUtils } from "@src/hooks/useCategoryUtils";
 import { useI18nStore } from "@src/i18n/useI18nStore";
 import { getCategoryFromGetCategoryListModel } from "@src/infra/helpers/utils";
+import { GetCategoryListModel } from "@src/types";
 
 const DesktopCategoryCarousel = () => {
-  const categories: unknown[] = [];
+  const categories: GetCategoryListModel[] = [];
   const [showStartArrow, setShowStartArrow] = useState(false);
   const [showEndArrow, setShowEndArrow] = useState(true);
   const params = useParams();
@@ -117,7 +118,11 @@ const DesktopCategoryCarousel = () => {
                   href={getCategoryLink(category)}
                   isSelected={isCategoryActive}
                   isRTL={isRTL}
-                  Icon={getCategoryIcon(category.name)(isRTL)}
+                  Icon={
+                    getCategoryIcon(category.name)(
+                      isRTL
+                    ) as React.ComponentType<React.SVGProps<SVGSVGElement>>
+                  }
                 />
               );
             })}

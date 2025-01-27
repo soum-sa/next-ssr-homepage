@@ -1,6 +1,5 @@
 import { css } from "@panda-styled-system/css";
 
-import { FooterBanner } from "@src/components/FooterBanner";
 import { Footer } from "@src/components/Footer";
 import { Header } from "@src/components/Header";
 import { HeaderBanner } from "@src/components/HeaderBanner";

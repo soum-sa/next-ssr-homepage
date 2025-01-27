@@ -1,1 +1,0 @@
-export { FooterBanner } from './FooterBanner';

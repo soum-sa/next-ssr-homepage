@@ -8,8 +8,6 @@ import { css, cx } from "@panda-styled-system/css";
 import useEmblaCarousel from "embla-carousel-react";
 import isEmpty from "lodash.isempty";
 
-import useIsMobile from "@src/components/Checkout/hooks/useIsMobile";
-
 import { Link, usePathname } from "@src/i18n/routing";
 
 import { ArrowButton } from "./ArrowButton";
@@ -38,6 +36,7 @@ import {
 } from "@src/infra/helpers/utils";
 import { isEligibleForTenDaysGuarantee } from "@src/lib/utils";
 import { ProductCard } from "@src/components/ProductCard";
+import useIsMobile from "@src/hooks/useIsMobile";
 
 export type CollectionProps = {
   feed: Feed;
@@ -178,9 +177,6 @@ export function Collection({
                   productId={product.productId}
                   discount={product.discount}
                   attributes={product.attributes}
-                  productImages={
-                    product?.productImages || product?.product_images || []
-                  }
                   tags={product.tags}
                   sellStatus={
                     shouldShowSellStatus ? product.sellStatus : undefined
@@ -190,7 +186,6 @@ export function Collection({
                   categoryName={product.categoryName}
                   isSlideble={!isMobile}
                   isHomepage={pathname === "/"}
-                  usage={usage}
                   showTenDaysGuaranteeTag={showTenDaysGuaranteeTag}
                 />
               </InView>

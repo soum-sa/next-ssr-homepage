@@ -22,11 +22,13 @@ import { getCategoryIcon } from "../icons";
 import { useI18nStore } from "@src/i18n/useI18nStore";
 import { getCategoryFromGetCategoryListModel } from "@src/infra/helpers/utils";
 import { useCategoryUtils } from "@src/hooks/useCategoryUtils";
+import { GetCategoryListModel } from "@src/types";
+import { FC } from "react";
 
 const MobileCategoryCarousel = () => {
   const seoTranslations = useTranslations("seo");
 
-  const categories: unknown[] = [];
+  const categories: GetCategoryListModel[] = [];
   const { isRTL } = useI18nStore();
 
   const params = useParams();
@@ -57,7 +59,10 @@ const MobileCategoryCarousel = () => {
           {categories.map((item) => {
             const isCategoryActive = activeCategory?.id === item.id;
 
-            const Icon = getCategoryIcon(item.name)(isRTL);
+            const Icon = getCategoryIcon(item.name)(isRTL) as FC<{
+              width: number;
+              role: "img";
+            }>;
 
             return (
               <InView as="div" key={item.id} className={emblaSlideStyle}>

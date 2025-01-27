@@ -5,8 +5,6 @@ import useEmblaCarousel from "embla-carousel-react";
 import { useTranslations } from "next-intl";
 import { InView } from "react-intersection-observer";
 
-import { useI18nStore } from "@app/store";
-import { HomepageDataResponse } from "@data-interface/contracts";
 import {
   CarouselDotButton,
   useDotButton,
@@ -23,6 +21,8 @@ import {
 } from "../Upper/MobileBanners/MobileBanners.styled";
 import { MobileMiddleBannerImage } from "./MobileMiddleBannerImage";
 import { useBanners } from "@src/hooks/useBanners";
+import { HomepageDataResponse } from "@src/contracts";
+import { useI18nStore } from "@src/i18n/useI18nStore";
 
 export const MobileMiddleBanner = ({
   banners,

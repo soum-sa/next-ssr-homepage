@@ -9,7 +9,6 @@ import footer from "./ar/footer.json";
 import footerBanner from "./ar/footerBanner.json";
 import homeHeroBanner from "./ar/homeHeroBanner.json";
 import mobileHeader from "./ar/mobileHeader.json";
-import modalDownloadApp from "./ar/modalDownloadApp.json";
 import mppBoard from "./ar/mppBoard.json";
 import productCard from "./ar/productCard.json";
 import productDetail from "./ar/productDetail.json";
@@ -19,17 +18,10 @@ import productSaveBadge from "./ar/productSaveBadge.json";
 import saleProcess from "./ar/saleProcess.json";
 import search from "./ar/search.json";
 import sellOnSoum from "./ar/sellOnSoum.json";
-import sellingGuideOnSoumPlatform from "./ar/sellingGuideOnSoumPlatform.json";
 import shipping from "./ar/shipping.json";
 import headerBanner from "./ar/headerBanner.json";
 import loginButton from "./ar/loginButton.json";
 import profileAvatar from "./ar/profileAvatar.json";
-import loginMetaDetails from "./ar/loginMetaDetails.json";
-import loginForm from "./ar/loginForm.json";
-import loginSection from "./ar/loginSection.json";
-import loginFormFooter from "./ar/loginFormFooter.json";
-import checkoutNav from "./ar/checkoutNav.json";
-import costSummary from "./ar/costSummary.json";
 import deliveryAddress from "./ar/deliveryAddress.json";
 import itemDetails from "./ar/itemDetails.json";
 import citySelectDrawer from "./ar/citySelectDrawer.json";
@@ -51,7 +43,6 @@ import seo from "./ar/seo.json";
 import merchantProfile from "./ar/merchantProfile.json";
 import guaranteeDetails from "./ar/guaranteeDetails.json";
 import collectionArrows from "./ar/collectionArrows.json";
-import freeDelivery from "./ar/freeDelivery.json";
 import filters from "./ar/filters.json";
 import estimatedDeliveryTime from "./ar/estimatedDeliveryTime.json";
 import collectionPage from "./ar/collectionPage.json";
@@ -63,7 +54,6 @@ import mortgageCalculator from "./ar/mortgageCalculator.json";
 import inspectionReport from "./ar/inspectionReport.json";
 import inspectedAndGuaranteed from "./ar/inspectedAndGuaranteed.json";
 import specification from "./ar/specification.json";
-import warrantyPlans from "./ar/warrantyPlans.json";
 import foreignListedProduct from "./ar/foreignListedProduct.json";
 import leftPanelReservation from "./ar/leftPanelReservation.json";
 import financingTermModal from "./ar/financingTermModal.json";
@@ -86,7 +76,6 @@ const translations = {
   footerBanner,
   homeHeroBanner,
   mobileHeader,
-  modalDownloadApp,
   mppBoard,
   productCard,
   productDetail,
@@ -97,17 +86,10 @@ const translations = {
   search,
   sellOnSoum,
   notification,
-  sellingGuideOnSoumPlatform,
   shipping,
   headerBanner,
   loginButton,
   profileAvatar,
-  loginMetaDetails,
-  loginForm,
-  loginSection,
-  loginFormFooter,
-  checkoutNav,
-  costSummary,
   itemDetails,
   deliveryAddress,
   citySelectDrawer,
@@ -129,7 +111,6 @@ const translations = {
   merchantProfile,
   guaranteeDetails,
   collectionArrows,
-  freeDelivery,
   filters,
   estimatedDeliveryTime,
   collectionPage,
@@ -141,7 +122,6 @@ const translations = {
   inspectionReport,
   inspectedAndGuaranteed,
   specification,
-  warrantyPlans,
   foreignListedProduct,
   leftPanelReservation,
   financingTermModal,

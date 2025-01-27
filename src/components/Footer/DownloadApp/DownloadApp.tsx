@@ -2,10 +2,7 @@
 
 import { useTranslations } from "next-intl";
 
-import {
-  DownloadAppAndroid,
-  DownloadAppIOS,
-} from "@src/styles/icons/src/icons";
+import { DownloadAppAndroid, DownloadAppIOS } from "@src/styles/icons";
 
 import { downloadTitle, downloadIconContainer } from "./DownloadApp.styled";
 import { MediaQueryWrapper } from "@src/styles/components";

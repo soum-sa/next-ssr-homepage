@@ -1,5 +1,3 @@
-export { useAlgoliaQuerySuggest } from "./useAlgoliaAutocomplete";
-export { useMeasure } from "./useMeasure";
 export { useCloudImage } from "./useCloudImage";
 export { useCurrentBreakpoint, DeviceTypes } from "./useCurrentBreakpoint";
 export { useAdminImagePresets } from "./useAdminImagePresets";

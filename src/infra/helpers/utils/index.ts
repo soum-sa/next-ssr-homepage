@@ -9,7 +9,6 @@ export { getCloudImgSrc } from "./getCloudImgSrc";
 export { getCurrentOrigin } from "./getCurrentOrigin";
 export { slugify } from "./slugify";
 export { extractObjectId } from "./extractObjectId";
-export { toggleIdInArray } from "./toggleIdInArray";
 export {
   getCategoryFromGetCategoryListModel,
   getCategoryFromDomainGetCategoryListModel,
@@ -24,5 +23,4 @@ export {
 } from "./getModel";
 export { extractGA4SessionId } from "./extractGA4SessionId";
 export { toUpperCase } from "./toUpperCase";
-export { withBrandName } from "./withBrandName";
 export { getCurrentPage } from "./getCurrentPage";

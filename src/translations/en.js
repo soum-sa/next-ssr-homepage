@@ -9,8 +9,6 @@ import footer from "./en/footer.json";
 import footerBanner from "./en/footerBanner.json";
 import homeHeroBanner from "./en/homeHeroBanner.json";
 import mobileHeader from "./en/mobileHeader.json";
-import modalDownloadApp from "./en/modalDownloadApp.json";
-import mppBoard from "./en/mppBoard.json";
 import productCard from "./en/productCard.json";
 import productDetail from "./en/productDetail.json";
 import productDetailFaq from "./en/productDetailFaq.json";
@@ -24,12 +22,6 @@ import shipping from "./en/shipping.json";
 import headerBanner from "./en/headerBanner.json";
 import loginButton from "./en/loginButton.json";
 import profileAvatar from "./en/profileAvatar.json";
-import loginMetaDetails from "./en/loginMetaDetails.json";
-import loginForm from "./en/loginForm.json";
-import loginSection from "./en/loginSection.json";
-import loginFormFooter from "./en/loginFormFooter.json";
-import checkoutNav from "./en/checkoutNav.json";
-import costSummary from "./en/costSummary.json";
 import deliveryAddress from "./en/deliveryAddress.json";
 import itemDetails from "./en/itemDetails.json";
 import citySelectDrawer from "./en/citySelectDrawer.json";
@@ -43,8 +35,6 @@ import testimonials from "./en/testimonials.json";
 import latestNews from "./en/latestNews.json";
 import filterBadge from "./en/filterBadge.json";
 import tamaraPayment from "./en/tamaraPayment.json";
-import payNowButton from "./en/payNowButton.json";
-import reserveNowButton from "./en/reserveNowButton.json";
 import modelFilter from "./en/modelFilter.json";
 import productNotFoundAlert from "./en/productNotFoundAlert.json";
 import seo from "./en/seo.json";
@@ -72,7 +62,6 @@ import productSorting from "./en/productSorting.json";
 import addOnsNav from "./en/addOnsNav.json";
 import warranties from "./en/warranties.json";
 import accessories from "./en/accessories.json";
-import notification from "./en/notification.json";
 
 const translations = {
   blogBanner,
@@ -86,8 +75,7 @@ const translations = {
   footerBanner,
   homeHeroBanner,
   mobileHeader,
-  modalDownloadApp,
-  mppBoard,
+
   productCard,
   productDetail,
   productDetailFaq,
@@ -101,13 +89,6 @@ const translations = {
   headerBanner,
   loginButton,
   profileAvatar,
-  loginMetaDetails,
-  notification,
-  loginForm,
-  loginSection,
-  loginFormFooter,
-  checkoutNav,
-  costSummary,
   itemDetails,
   deliveryAddress,
   citySelectDrawer,
@@ -121,8 +102,6 @@ const translations = {
   latestNews,
   filterBadge,
   tamaraPayment,
-  payNowButton,
-  reserveNowButton,
   modelFilter,
   productNotFoundAlert,
   seo,

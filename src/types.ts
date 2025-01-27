@@ -42,6 +42,8 @@ export type DomainGetModelListModel = {
   maxPercentage: number;
 };
 
+type BrandStatus = "Active";
+
 export type GetModelListModel = {
   id: string;
   name: string;
@@ -49,4 +51,16 @@ export type GetModelListModel = {
   icon: string;
   totalAvailableProducts: number;
   maxPercentage: number;
+};
+
+export type DomainGetBrandListModel = {
+  status: BrandStatus;
+  position: number;
+  _id: string;
+  brand_name_ar: string;
+  created_at: string;
+  updated_at: string;
+  category_id: string;
+  brand_name: string;
+  brand_icon: string;
 };
