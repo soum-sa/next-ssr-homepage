@@ -1,0 +1,84 @@
+{
+  "soumLogo": {
+    "linkText": "الصفحة الرئيسية - سوم",
+    "imgText": "شعار سوم -الصفحة الرئيسية"
+  },
+  "appleIcon": {
+    "linkText": "تحميل تطبيق سوم من متجر أبل الآن",
+    "imgText": "شارة متجر أبل - تحميل تطبيق سوم"
+  },
+  "androidIcon": {
+    "linkText": "تحميل تطبيق سوم من متجر جوجل بلاي الآن",
+    "imgText": "شارة جوجل بلاي - تحميل تطبيق سوم"
+  },
+  "downloadAppIOS": {
+    "linkText": "تحميل تطبيق سوم من متجر أبل الآن",
+    "imgText": "شارة متجر أبل - تحميل تطبيق سوم"
+  },
+  "downloadAppAndroid": {
+    "linkText": "تحميل تطبيق سوم من متجر جوجل بلاي الآن",
+    "imgText": "شارة جوجل بلاي - تحميل تطبيق سوم"
+  },
+  "xIcon": {
+    "linkText": "تابعنا على تويتر"
+  },
+  "instagramIcon": {
+    "linkText": "تابعونا على الانستغرام"
+  },
+  "facebookIcon": {
+    "linkText": "تابعونا على الفيسبوك"
+  },
+  "whatsappIcon": {
+    "linkText": "تحدث معنا على الواتساب"
+  },
+  "tiktokIcon": {
+    "linkText": "تابعونا على تيك توك"
+  },
+  "linkedInIcon": {
+    "linkText": "تابعونا على لينكدإن"
+  },
+  "searchButton": {
+    "buttonText": "زر البحث",
+    "iconText": "زر البحث"
+  },
+  "menuButton": {
+    "buttonText": "افتح القائمة",
+    "iconText": "افتح القائمة"
+  },
+  "leftIconButton": {
+    "buttonText": "ارجع",
+    "iconText": "ارجع"
+  },
+  "rightIconButton": {
+    "buttonText": "تقدم",
+    "iconText": "تقدم"
+  },
+  "closeButton": {
+    "buttonText": "يغلق",
+    "iconText": "يغلق"
+  },
+  "productDetailsTab": {
+    "overview": "قسم نظرة عامة على المنتج",
+    "accessories": "قسم ملحقات المنتج",
+    "productDescription": "قسم وصف المنتج",
+    "faq": "قسم الأسئلة الشائعة"
+  },
+  "categoryIcon": {
+    "linkText": "انتقل إلى فئة {arName}",
+    "imgText": "{arName} أيقونة - الفئات"
+  },
+  "qrCode": {
+    "imgText": "لتحميل تطبيق سوم QR رمز"
+  },
+  "paymentSelect": {
+    "all": "اختيار طريقة الدفع في صفحة الدفع، يتضمن خيارات لمدى وفيزا، وكذلك خدمات التقسيط مثل تابي وتمارا، مما يتيح لك الشراء بأقساط ميسرة."
+  },
+  "searchProducts": "ابحث عن المنتجات",
+  "filterProducts": " تصفية المنتجات ",
+  "viewBanners": "عرض البانرات",
+  "viewReviews": "عرض التقييمات",
+  "viewMoreBrands": "عرض المزيد من العلامات التجارية",
+  "viewMoreModels": "عرض المزيد من الموديلات ",
+  "latestOnSoum": "عرض آخر أخبار سوم",
+  "findOutMoreAboutUs": "اعرف المزيد عنا"
+}

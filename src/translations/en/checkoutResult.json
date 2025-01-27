@@ -1,0 +1,7 @@
+{
+  "titleFail": "Payment Failure",
+  "titleSuccess": "Payment Successful",
+  "captionFail": "Please try again to complete the purchase",
+  "captionSuccess": "Download the app to track your order",
+  "buttonText": "Try Again"
+}

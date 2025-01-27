@@ -1,0 +1,18 @@
+{
+  "heading": "The selling process on Soum platform",
+
+  "process": {
+    "title": {
+      "one": "List your product",
+      "two": "Buying the product and saving money",
+      "three": "Shipping the product safely",
+      "four": "Deliver to the buyer and transfer the payment"
+    },
+    "description": {
+      "one": "Describe your product with precise and clear details, capture high-quality photos from all angles, and ensure to set an appropriate price to increase the chances of selling the product",
+      "two": "After the buyer purchases the product, the purchase amount will be held by us until the sale process is successfully completed",
+      "three": "Head to the nearest branch of Samsa for shipping the product within 24 hours, we ensure its secure transportation and offering a guarantee for its safety",
+      "four": "After the buyer successfully receives the product, the purchase amount will be transferred to your bank account within 24 hours"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "confirmDeletePdfTitle": "Are you sure you want to delete the document?",
+  "confirmDeletePdfSubtitle": "You cannot proceed to the next step until you attach all the required",
+  "return": "Return",
+  "delete": "Delete",
+  "uploadFileAlt": "Upload file",
+  "deleteFileAlt": "Delete file",
+  "preview": "Preview",
+  "viewDocument": "View Document",
+  "attachProofOfIncome": "Attach proof of salary",
+  "riyal": "SAR",
+  "cash": "Cash",
+  "cashStep1": "Reserve",
+  "cashStep2": "Check it",
+  "cashStep3": "Complete amount",
+  "cashStep4": "Receive it",
+  "cashDescription": "Secure your car reservation with a <semibold>refundable</semibold> deposit of only <price></price> SAR. If you check and approve it, pay the remaining amount to own it quickly",
+  "cashAdditionalNote": "Note: We guarantee a full refund of the reservation amount if you change your mind. <semibold>Reserve with peace of mind</semibold>",
+  "finance": "Finance",
+  "financeDescription": "Ensure quick acceptance of your request and simplify all financing procedures by paying a <price></price> SAR <semibold>administrative fee</semibold>.",
+  "financeLoanApproval": "Fastest loan approval: 5 days",
+  "financingConditions": "Financing Conditions",
+  "financeStep1": "Submit request",
+  "financeStep2": "Bank approval",
+  "financeStep3": "Reserve {price} SAR",
+  "financeStep4": "Check",
+  "financeStep5": "Receive it",
+  "FILE_SIZE_EXCEEDS_LIMIT": "The file must not exceed 5 MB",
+  "currentStepAndTotalSteps": "{currentStep} of {totalSteps} Step",
+  "selectPaymentPlan": {
+    "title": "Select Payment Plan",
+    "heading": "Soum offers you various and secure payment methods to own your dream car quickly"
+  },
+  "personalInformation": {
+    "title": "Personal Information",
+    "heading": " Soum offers you flexible and easy financing option.",
+    "instructionHeading": "Enter your data to get your car as quickly as possible",
+    "fullNameLabel": "Full Name",
+    "fullNamePlaceholder": "Enter full name",
+    "REQUIRED_FULL_NAME_FIELD": "Please enter your full name",
+    "INVALID_FULL_NAME_FIELD": "Please enter your full name correctly to be able to submit the financing request",
+    "cityLabel": "City",
+    "cityPlaceholder": "Select Your City",
+    "REQUIRED_CITY_FIELD": "Please select your city",
+    "nationalIdLabel": "Attach a copy of national Id /Iqama",
+    "nationalIdPlaceholder": "Attach a copy of national Id /Iqama",
+    "REQUIRED_NATIONAL_ID_FIELD": "Please attach a copy of national Id /Iqama",
+    "driversLicenseLabel": "Attach a copy of driver's license",
+    "driversLicensePlaceholder": "Attach a copy of driver's license",
+    "REQUIRED_DRIVER_LICENSE_FIELD": "Please attach a copy of driver's license",
+    "selectYourCity": "Select Your City"
+  },
+  "workInformation": {
+    "title": "Work Information",
+    "selectEmployerLabel": "Select Employer",
+    "REQUIRED_EMPLOYER_FIELD": "Please select employer",
+    "workEntityLabel": "Work Entity",
+    "workEntityPlaceholder": "Write Work Entity",
+    "REQUIRED_WORK_ENTITY_FIELD": "Please enter work entity"
+  },
+  "documentUpload": {
+    "heading": "Please attach the required documents so that your application can be approved",
+    "isSalaryStampedLabel": "Is the salary proof stamped?",
+    "REQUIRED_SALARY_STAMPED_FIELD": "Please select if the salary proof is stamped",
+    "governmentIsSalaryStampedLabel": "Is the salary verification by (link/code) is available?",
+    "yes": "Yes",
+    "no": "No",
+    "salaryProofLabel": "Attach proof of salary and bank statement",
+    "governmentSalaryProofLabel": "Attach proof of salary",
+    "retiredSalaryProofLabel": "Attach pension certificate",
+    "salaryProofPlaceholder": "Attach proof of salary",
+    "REQUIRED_SALARY_PROOF_FIELD": "Please attach proof of salary",
+    "whatMustInclude": "What must include?",
+    "whatMustIncludeList": [
+      "It must include (client's name, ID number, nationality, profession, hiring date, and salary)",
+      "It must include bank statement for the last 3 months"
+    ],
+    "governmentWhatMustIncludeList": [
+      "Salary certificate stamped by government entity, providing a verification link or barcode"
+    ],
+    "insuranceProofLabel": "Attach proof of insurance",
+    "insuranceProofPlaceholder": "Attach proof of insurance",
+    "REQUIRED_INSURANCE_PROOF_FIELD": "Please attach proof of insurance",
+    "insuranceAdditionalInfo": "The insurance printout must have an issuance date not exceeding 10 days"
+  },
+  "cancelApplicationModal": {
+    "title": "Want to cancel the application?",
+    "description": "Your information will not be saved, and you will need to refill your data if you apply again!",
+    "cancel": "Cancel",
+    "complete": "Complete"
+  },
+  "financingApplicationFeeModal": {
+    "title": "Financing application fee:",
+    "description": "It is a non-refundable administrative fee that includes VAT",
+    "additionalInformation": "Soum helps submit your application and expedite bank approval",
+    "iUnderstand": "I Understand"
+  },
+  "reservationFeeModal": {
+    "title": "Is the reservation fee refundable?",
+    "description": "The reservation amount will be fully refunded if you do not approve of the car",
+    "nonRefundable": "Except in the following cases:",
+    "nonRefundableList": [
+      "If more than 48 hours have passed since the reservation amount was deposited and we have not received any response from you.",
+      "If the car is successfully purchased, the reservation amount will be deducted from the total price."
+    ],
+    "iUnderstand": "I Understand"
+  },
+  "purchaseSteps": "Purchase Steps"
+}

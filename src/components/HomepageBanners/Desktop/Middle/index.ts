@@ -1,0 +1,1 @@
+export { DesktopMiddleBanner } from "./DesktopMiddleBanner";

@@ -1,0 +1,21 @@
+{
+  "select": "اختر",
+  "yourCity": "مدينتك",
+  "orderTodayDeliverTo": "اطلب اليوم، التوصيل إلى",
+  "toGetEstimatedDelivery": "لمعرفة وقت التوصيل",
+  "estimatesDelivery": "وقت التوصيل المتوقع",
+  "expressDelivery": "توصيل سريع",
+  "business": "",
+  "default": "يستغرق التوصيل ٤ الى ٧ ايام عمل",
+  "from": "من",
+  "to": "إلى",
+  "clearAll": "مسح الكل",
+  "showResults": "عرض النتائج",
+  "selectYourCity": "اختر مدينتك",
+  "day": "يوم",
+  "days": "أيام عمل",
+  "estimatedDeliveryTime": "وقت التوصيل المتوقع",
+  "searchYourCity": "ابحث عن مدينتك",
+  "getByTomorrow": "تصلك غدًا"
+}
+

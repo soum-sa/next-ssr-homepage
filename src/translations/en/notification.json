@@ -1,0 +1,23 @@
+{
+  "notifications": "Notifications",
+   "markAllRead": "Mark all as read",
+   "updates": "Updates",
+   "all": "All",
+   "viewProductPage": "View Product page",
+   "yourNewResposne": "You've received a new response for",
+  "replyBySeller": "Replied by the seller",
+  "notificationEmpty": "Your notifications are empty!",
+  "notificationEmptyDetail": "Stay tuned! Notifications about your activity will show up here",
+  "discoverProducts": "Discover Products",
+  "loading": "Loading...",
+  "seeMoreNotifications": "See more",
+  "less": "Less",
+  "more": "More",
+  "seconds": "s",
+  "minutes": "m",
+  "hours": "h",
+  "days": "d",
+  "weeks": "w",
+  "months": "mo",
+  "years": "y"
+}

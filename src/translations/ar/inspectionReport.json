@@ -1,0 +1,16 @@
+{
+  "realEstateHeaderTitle": "تقرير فحص العقار",
+  "carHeaderTitle": "فحص السيارة الشامل",
+  "realEstateDescriptionSubtitle": "نقوم بفحص العقارات بدقة لضمان الجودة والامتثال",
+  "carDescriptionSubtitle": "نختار سياراتنا المستعملة وفق معايير دقيقة ونعرض فقط الأفضل",
+  "back": "رجوع",
+  "inspectedOn": "تم الفحص فى ",
+  "pointsChecked": "أكثر من {{num}} نقطة تم فحصها",
+  "passed": "سليمة",
+  "imperfection": "ملاحظة",
+  "viewFullInspection": "راجع تقرير الفحص الكامل",
+  "inspectionReport": "تقرير الفحص الشامل",
+  "viewImages": "عرض الصورة",
+  "imageCounter": "{current} من {total} صور",
+  "thumbnailAlt": "صورة مصغرة"
+}

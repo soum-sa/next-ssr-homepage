@@ -1,0 +1,24 @@
+{
+  "heading": "How to ship your product through SMSA",
+
+  "bannerHeading": "Ship your product with ease",
+  "bannerCaption": "Don't worry, Soum guarantees you free and secure shipping",
+
+  "altAppStore": "Apple Store",
+  "altPlayStore": "Google Play Store",
+
+  "process": {
+    "title": {
+      "one": "Preparing the device for shipping",
+      "two": "Head to nearest Samsa branch for shipping",
+      "three": "Track your product status through the App",
+      "four": "Transfer the money to your bank account"
+    },
+    "caption": {
+      "one": "Reset the factory settings and prepare the accessories (if any) before heading to the shipping office",
+      "two": "Upon arrival, present the shipping waybill sent via WhatsApp. To find the nearest Samsa branch <external_link>From here</external_link>",
+      "three": "You will receive automatic updates regarding the shipping status of the product and its arrival to the buyer through the application",
+      "four": "The purchase amount will be securely transferred to your bank account within 24 hours of the buyer receiving the product"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "whatSellQuestion": "What can you sell on Soum?",
+  "whatSellAnswer": "Soum is a platform where millions of people around Saudi Arabia connect to sell and buy used devices. You can sell mobiles, smart watches, tablets, laptops, headphones, gaming, and desktops.",
+  "howSellWorksQuestion": "How selling works",
+  "howSellWorksAnswer": "See more information in our terms and conditions",
+  "sellingWorks": {
+    "title": {
+      "one": "List your item",
+      "two": "Ship with all ease for free",
+      "three": "Receive payment after buyer verification"
+    },
+    "description": {
+      "one": "List your device and let people buy it with a price you define",
+      "two": "Upon device sale, ship it for free to buyer via nearest selected shipping carrier branch.",
+      "three": "We will secure your payment and transfer the amount to you after the sale"
+    },
+    "link": {
+      "two": "Shipping Details",
+      "three": "Sale Process Details"
+    }
+  },
+  "startSellingHeading": "Ready to start selling?",
+  "startSellingDescription": "In just few minutes, you will be able to sell your electronics in Soum’s App. Download now and start earning money!",
+  "altAppStore": "Apple Store",
+  "altPlayStore": "Google Play Store",
+  "sellFaq": {
+    "heading": {
+      "one": "How can I list my product for sale on the platform?",
+      "two": "I could not find a suitable classification for my product, what shall I do?",
+      "three": "What happens when my product gets sold?",
+      "four": "How will my product be delivered to the buyer?"
+    },
+    "content": {
+      "one": "After logging in through the application or the browser, select \"Sell now\" icon, then you can add your product’s pictures and answer the question to determine the device condition",
+      "two": "Meanwhile, you can only sell products that have a classification on the platform. New categories and products will be added soon",
+      "three": "The product will be picked up from you and delivered to the buyer. Within 24 hours of delivery, the amount will be deposited into your bank account",
+      "four": "We take care of all costs related to your product delivery process from the moment we pick it up from you to delivering it to the buyer"
+    }
+  },
+  "faq": "Frequently Asked Questions",
+  "caption": "See more information in our terms and conditions"
+}

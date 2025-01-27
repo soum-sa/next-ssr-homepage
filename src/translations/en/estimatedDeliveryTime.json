@@ -1,0 +1,20 @@
+{
+  "select": "Select",
+  "yourCity": "Your City",
+  "orderTodayDeliverTo": "Order today, Deliver to",
+  "toGetEstimatedDelivery": "To get estimated delivery",
+  "estimatesDelivery": "Estimated delivery",
+  "expressDelivery": "Express Delivery",
+  "business": "business",
+  "default": "Delivery in 4 to 7 business days",
+  "from": "",
+  "to": "to",
+  "clearAll": "Clear All",
+  "showResults": "Show Results",
+  "selectYourCity": "Select Your City",
+  "day": "day",
+  "days": "days",
+  "estimatedDeliveryTime": "Estimated Delivery Time",
+  "searchYourCity": "Search Your City",
+  "getByTomorrow": "Get It by Tomorrow"
+}

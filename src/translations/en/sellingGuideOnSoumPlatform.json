@@ -1,0 +1,207 @@
+{
+  "home": "Home",
+  "blog": "Blog",
+  "category": "Selling",
+  "title": "Selling Guide on Soum Platform",
+  "imageAlt": "Person search for a way to sell a good used device using a laptop - Selling Guide on Soum Platform",
+  "description": "Using the platform as a seller, from account creation to completing a sale",
+  "tag": {
+    "one": "Listing",
+    "two": "Shipping",
+    "three": "Registering",
+    "four": "Sell"
+  },
+  "article": {
+    "heading": "Guide to selling on Soum",
+    "description": "Using the platform as a seller: from account setup, listing creation, to completing sales"
+  },
+  "section": {
+    "one": {
+      "heading": "Introduction",
+      "para": {
+        "one": "Soum provides you with a service to sell your used electronic devices by listing them on the platform and showcasing them to a wide range of potential buyers across the kingdom"
+      }
+    },
+    "two": {
+      "heading": "What are the products displayed on the Soum platform?"
+    },
+    "three": {
+      "heading": "What are the services provided for sellers on Soum?",
+      "para": {
+        "one": "Soum platform offers various benefits for sellers, including product showcasing and increased selling opportunities, among other services. Some services provided by Soum include:",
+        "two": "Thanks to its popularity and widespread reach, sellers can showcase their products to hundreds of thousands of daily users, significantly increasing the chances of selling their devices at competitive prices."
+      },
+      "list": {
+        "one": "1. Displaying products to all platform visitors from across the kingdom.",
+        "two": "2. Exclusive communication through the platform to ease the seller's process.",
+        "three": "3. Providing free device delivery service to the buyer upon a successful sale.",
+        "four": "4. Assurance of receiving the product's amount after the sale process is completed."
+      }
+    },
+    "four": {
+      "heading": "What are the services provided to buyers on Soum?",
+      "para": {
+        "one": "Soum platform provides distinguished services to buyers throughout their purchasing journey, presenting sellers' devices clearly and seamlessly. The platform showcases thousands of diverse devices daily, enabling buyers to choose the product they desire from a wide variety of options."
+      }
+    },
+    "five": {
+      "heading": "What is the added value provided by the Soum platform?",
+      "para": {
+        "one": "Soum platform provides various value-added services for sellers, including:"
+      },
+      "media": {
+        "one": "Money reaches you safely",
+        "two": "Safe and reliable free shipping",
+        "three": "Easily sells to thousands of buyers around the kingdom"
+      }
+    },
+    "six": {
+      "heading": "How to register on the Soum platform?",
+      "para": {
+        "one": "Before starting your selling journey, you must first log in if you don't have an account on Soum"
+      },
+      "list": {
+        "one": "1. Click on the \"Log In / New Account\" button.",
+        "two": "2. Enter your mobile number.",
+        "three": "3. Enter the verification code sent to your mobile.",
+        "four": "4. Enter your name.",
+        "five": "5. Your account will be registered on Soum easily.",
+        "six": "6. After registration, add your address and banking information before listing your device. This allows us to transfer the amount to you after the sale is completed."
+      },
+      "imgAlt": {
+        "0": "Person openning the Soum app for the first time",
+        "1": "Person entering their mobile number to register on the Soum platform",
+        "2": "Person entering the verification code sent to their mobile to register on the Soum platform",
+        "3": "Person confirming that they have successfully registered on the Soum platform",
+        "4": "Person navigating to the profile section",
+        "5": "Person shown how to add address and banking information",
+        "6": "Person adding their address information",
+        "7": "Person adding their banking information"
+      }
+    },
+    "seven": {
+      "altImg": {
+        "0": "Person shown how to navigate to the listing section",
+        "1": "Person selecting the type of device they want to sell",
+        "2": "Person selecting the model of the device they want to sell",
+        "3": "Person specifying the capacity, color, version, and any additional product-specific details",
+        "4": "Person double-checking the entered information",
+        "5": "Person explaining the reason for selling, usage duration, warranty info if relevant, and adding details to boost selling potential",
+        "6": "Person clarifying whether screen repair or replacement is needed",
+        "7": "Person specifing the defects the phone might have",
+        "8": "Person specifing battery health for the device",
+        "9": "Person shown how to navigate to the photos section",
+        "10": "Person capturing high-quality photos of their device from all angles for quicker selling",
+        "11": "Person added all the necessary photos of their device",
+        "12": "Person shown how to navigate to the price section",
+        "13": "Person reviewing the suggested price for their device and adjusting it",
+        "14": "Person clicking on the declaration box to proceed to the confirmation step",
+        "15": "Person shown how to navigate to confirm their personal details",
+        "16": "Person aknowledging all the details are correct before listing the product"
+      },
+      "heading": "Listing",
+      "para": {
+        "one": "Product listing is a crucial step in the selling journey. At Soum, we strive to provide the best experience for all sellers during this process. In this section, we'll detail the steps of listing your device"
+      },
+      "list": {
+        "one": "1. Initiate your selling journey by clicking the 'Sell Now' button on the homepage"
+      },
+      "subHeading": {
+        "one": "Type",
+        "two": "Condition",
+        "three": "Photos",
+        "four": "Price",
+        "five": "Personal details and confirmation"
+      },
+      "subSection": {
+        "one": {
+          "list": {
+            "one": "1. Choose the type of device you want to sell.",
+            "two": "2. Select the model.",
+            "three": "3. Specify the capacity, color, version, and any additional product-specific details.",
+            "four": "4. Double-check the entered information."
+          }
+        },
+        "two": {
+          "list": {
+            "one": "1. Explain reason for selling, usage duration, warranty info if relevant, and add details to boost selling potential.",
+            "two": "2. Answer all questions with high accuracy to avoid potential returns from buyers."
+          }
+        },
+        "three": {
+          "list": {
+            "one": "1. Capture high-quality photos of your device from all angles for quicker selling.",
+            "two": "2. Include images of battery health, receipt, original box, and accessories if available."
+          }
+        },
+        "four": {
+          "list": {
+            "one": "1. The Soum platform will suggest a suitable price for your device, and you can adjust it. It's preferable for the price to be both fair and competitive to ensure a quick sale.",
+            "two": "2. After reviewing the price, click on the declaration box to proceed to the confirmation step."
+          }
+        },
+        "five": {
+          "list": {
+            "one": "1. Update your address details before listing the product to ensure accuracy.",
+            "two": "2. Next, review your product summary and click to complete listing.",
+            "three": "3. Congratulations, your product is listed. It will be reviewed before display."
+          }
+        }
+      }
+    },
+    "eight": {
+      "heading": "How to ship your product through SMSA Express:",
+      "question": {
+        "one": "1. Preparing the device for shipping",
+        "two": "2. Visit the nearest SMSA branch for shipping",
+        "three": "3. Track the shipping and arrival status of the product on the app",
+        "four": "4. Transfer the purchase amount to your bank account"
+      },
+      "answer": {
+        "one": "Factory reset and prepare accessories (if available) before going to the shipping office.",
+        "two": "Present the sent WhatsApp shipping waybill upon arrival. Find the nearest SMSA branch here.",
+        "three": "Get automatic updates on the app for product shipping and delivery status",
+        "four": "Purchase amount securely transferred to your bank account within 24 hours of buyer receiving product"
+      }
+    },
+    "nine": {
+      "heading": "Suggestions for marketing your product",
+      "para": {
+        "one": "Thousands of buyers visit your device listing daily, so make sure to market your device effectively. Here are some of the most effective ways to promote your products in the listing:"
+      },
+      "list": {
+        "one": "1. Capture the device from all angles with clear, high-quality images.",
+        "two": "2. Set a competitive price for your devices.",
+        "three": "3. Accurately describe your device, including any flaws, to build buyer trust."
+      }
+    }
+  },
+  "callout": {
+    "one": "Ensure to mention all details and product flaws, leaving nothing unnoticed",
+    "two": "Ensure to select a price that aligns with the value of your device"
+  },
+  "photos": {
+    "tips": {
+      "heading": "Tips for capturing better photos:",
+      "one": "Capture the device from multiple steady and accurate angles as shown above",
+      "two": "Ensure good lighting for clear details.",
+      "three": "Camera should be directly in front of the desired side.",
+      "illustration": {
+        "heading": "Illustrative examples"
+      },
+      "excellent": {
+        "heading": "Excellent",
+        "photo": {
+          "one": "High-quality photos showcasing all sides",
+          "three": "Image illustrating device flaws, if any"
+        }
+      },
+      "poor": {
+        "heading": "Poor",
+        "photo": {
+          "two": "Low-quality image with personal info"
+        }
+      }
+    }
+  }
+}

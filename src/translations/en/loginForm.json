@@ -1,0 +1,21 @@
+{
+  "mobileNumberInputHeading": "Welcome to soum",
+  "mobileNumberInputCaption": "Enter your phone number",
+  "otpInputHeading": "Verify your phone number",
+  "otpInputCaption": "Enter the OTP code we sent to",
+  "usernameInputHeading": "One step left!",
+  "invalidMobileNumberMessage": "The mobile number is invalid. Please enter correct number",
+  "usernamePlaceholder": "Your Name",
+  "usernameInputCaption": "Enter your name",
+  "otpFailMessage": "The verification code is incorrect. Please make sure to enter it correctly",
+  "otpRequestMessage": "You can request another OTP after",
+  "otpResend": "Re-send OTP",
+  "mobileNumberButtonTitle": "Login",
+  "otpButtonTitle": "Confirm",
+  "usernameButtonTitle": "Login",
+  "loginRequired": "Login to view your recently viewed products",
+  "requestAnotherOTP": "You can request another OTP after one minute",
+  "usernameIsShort": "Username must contain at least 5 characters",
+  "usernameIsAnEmail": "Username cannot be an email address",
+  "usernameContainsInvalidCharacter": "Username cannot contain special characters or numbers"
+}

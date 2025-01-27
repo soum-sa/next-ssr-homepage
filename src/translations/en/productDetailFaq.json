@@ -1,0 +1,85 @@
+{
+  "faq": "FAQ",
+  "general": {
+    "1": {
+      "question": "Is Soum trustworthy?",
+      "answer": "Yes, Soum Platform Trading Company is registered at the Ministry of Commerce in Saudi Arabia. Registration number: 1010664186"
+    },
+    "2": {
+      "question": "How can I contact with the seller?",
+      "answer": "For any inquiries, you can contact customer support at: <external_link>https://wa.link/oeqmna</external_link>"
+    },
+    "3": {
+      "question": "How can I ensure that the product I choose arrives with the same specifications?",
+      "answer": "Soum will guarantee you the description and condition details match the delivered product"
+    },
+    "4": {
+      "question": "When can I expect to receive my item?",
+      "answer": "We deliver in about 5-7 business days after confirming the availability of the product"
+    },
+    "5": {
+      "question": "Which cities can Soum ship to?",
+      "answer": "Soum ships to every city in Saudi Arabia."
+    }
+  },
+  "cars": {
+    "1": {
+      "question": "Does Soum guarantee the cars listed on it?",
+      "answer": "Yes, Soum provides a comprehensive guarantee on the main engines of all cars listed on its platform for a full year or 20,000 km, whichever comes first. You can learn about the terms and conditions from our staff."
+    },
+    "2": {
+      "question": "Are the cars listed on Soum thoroughly inspected?",
+      "answer": "Yes, at Soum, we conduct a basic inspection for all cars listed on our platform. Additionally, upon request, we can perform a comprehensive inspection of up to 200 points to ensure the car meets Soum's standards in terms of condition and quality. Buy with confidence!"
+    },
+    "3": {
+      "question": "Can I test drive the car before purchasing?",
+      "answer": "You can request a car visit from your sales representative, who will coordinate an appointment for you to view the car and verify its condition."
+    },
+    "4": {
+      "question": "How can I purchase a car from the platform?",
+      "answer": "You browse the cars listed on the platform, choose the suitable car, and reserve it by paying a deposit. The sales representative will then contact you to answer your questions and complete the purchase process."
+    },
+    "5": {
+      "question": "Does Soum ship the car to my city?",
+      "answer": "We at Soum ship cars within the boundaries of Riyadh at our expense. If the customer is outside Riyadh, the shipping cost is added to the buyer, and they can pay for it along with the car's price or separately."
+    },
+    "6": {
+      "question": "Can I purchase a car from Soum through a lease-to-own system?",
+      "answer": "Soum has made agreements with the largest financing companies in the Kingdom of Saudi Arabia to enable its customers to choose the appropriate way to purchase and the suitable company for installment plans according to the financing companies' requirements, with exclusive offers on the profit margin for Soum customers only. You can contact customer service to learn about our installment offers."
+    }
+  },
+  "realEstate": {
+    "1": {
+      "question": "What types of properties can I buy on SoumAqar?",
+      "answer": "You can find a wide range of properties including apartments, villas, and lands available for purchase across Saudi Arabia."
+    },
+    "2": {
+      "question": "Is there a fee for buying a property on SoumAqar?",
+      "answer": "We charge a service fee of 2.5% only on each sale completed through our SoumAqar platform."
+    },
+    "3": {
+      "question": "How is my payment protected when buying a property on SoumAqar?",
+      "answer": "All transactions through SoumAqar are secure and guaranteed. We hold your payment in an escrow account until all conditions of the sale are met, ensuring your funds are protected throughout the purchase process."
+    },
+    "4": {
+      "question": "Can I schedule a property visit through SoumAqar?",
+      "answer": "Yes! You can book your visit directly through WhatsApp. Choose the property you like and select a convenient time for your visit."
+    },
+    "5": {
+      "question": "In what cities does SoumAqar operate?",
+      "answer": "Currently, we operate in Riyadh, focusing on prime neighborhoods like Al Narjis, Al Qirwan, and Al Aridh. We have plans to expand to other cities in the Kingdom soon."
+    },
+    "6": {
+      "question": "What happens if there’s an issue with my property purchase?",
+      "answer": "If you encounter any problems or discrepancies, contact SoumAqar’s customer support anytime! We are here to assist you in resolving any issues related to your purchase."
+    },
+    "7": {
+      "question": "How do I buy a property on SoumAqar?",
+      "answer": "To purchase a property on SoumAqar, follow these simple steps: <br></br> 1. <strong>Check the Listing</strong>: Browse through our listings to find a property that suits your needs.<br></br>2. <strong>Reserve the Property</strong>: If a property catches your interest, you can reserve it directly through the SoumAqar app to ensure it's held for you.<br></br>3. <strong>Schedule a Visit</strong>: Book a visit to the property through the app at a time that’s convenient for you to see the property firsthand.<br></br>4. <strong>Finalize the Details</strong>: Once you’ve decided to proceed with the purchase, all the transaction details can be set and confirmed via WhatsApp with our representative, who will assist you through the final steps."
+    },
+    "8": {
+      "question": "Is SoumAqar registered as a licensed marketplace with REGA?",
+      "answer": "Yes, SoumAqar is officially registered with the Real Estate General Authority (REGA) (License Number: 1200025209) and adheres to Ministry of Justice (MOJ) standards in Saudi Arabia. All our listings are vetted by Soum to ensure compliance with local regulations, offering a secure and trustworthy environment for all transactions."
+    }
+  }
+}

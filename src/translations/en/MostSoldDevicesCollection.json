@@ -1,0 +1,8 @@
+{
+  "mobile": {
+    "MostSoldDevicesCollectionTitle": "<highlight>Most Sold</highlight> Devices"
+  },
+  "desktop": {
+    "MostSoldDevicesCollectionTitle": "Most Sold <highlight>Devices</highlight>"
+  }
+}

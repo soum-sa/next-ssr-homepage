@@ -1,0 +1,24 @@
+{
+  "notifications": "الإشعارات",
+   "markAllRead": "تحديد الكل كمقروء",
+  "updates": "الجديد",
+  "all": "الكل",
+  "viewProductPage": "اعرض صفحة المنتج",
+  "yourNewResposne": "لقد تلقيت رد جديد بخصوص المنتج",
+  "notificationEmpty": "صفحة الإشعارات فارغة",
+  "notificationEmptyDetail": "هنا ستظهر الإشعارات: مثل آخر التحديثات على طلبك، عروضنا المميزة، ردود البائعين على اسئلتك وغيرها من الإعلانات التي تهمك",
+  "discoverProducts": "اكتشف المنتجات",
+  "loading": "جاري التحميل...",
+  "seeMoreNotifications": "شاهد المزيد",
+  "replyBySeller": "رد البائع",
+  "less": "أقل",
+  "more": "المزيد",
+  "seconds": "ثواني",
+  "minutes": "دقائق",
+  "hours": "ساعات",
+  "days": "أيام",
+  "weeks": "أسابيع",
+  "months": "أشهر",
+  "years": "سنوات"
+
+}

@@ -1,0 +1,9 @@
+{
+  "rightIconButton": {
+    "buttonText": "Forward"
+  },
+  "leftIconButton": {
+    "buttonText": "Backward"
+  },
+  "viewMore": "View More"
+}

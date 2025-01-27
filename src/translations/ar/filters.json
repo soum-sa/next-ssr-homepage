@@ -1,0 +1,18 @@
+{
+  "filterBy": "تصفية حسب",
+  "filterPriceTitle": "السعر",
+  "filterCategoryTitle": "نوع الجهاز",
+  "filterBrandTitle": "العلامة التجارية",
+  "clearAll": "مسح الكل",
+  "clear": "مسح",
+  "price": "السعر",
+  "min": "الحد الأدنى",
+  "max": "الحد الأعلى",
+  "apply": "تطبيق",
+  "showMore": "عرض المزيد",
+  "MIN_VALUE_GREATER": "أدخل قيمة أقل من الحد الأعلى",
+  "MAX_VALUE_LOWER": " ادخل قيمة أعلى من الحد الادنى",
+  "EQUAL_VALUES": "لا يمكنك إدخال نفس القيمة للحد الأدنى والحد الأعلى",
+  "showAllResults": "عرض كل النتائج",
+  "showNumberResults": "عرض <number></number> نتائج"
+}

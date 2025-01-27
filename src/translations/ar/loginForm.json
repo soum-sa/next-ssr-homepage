@@ -1,0 +1,21 @@
+{
+  "mobileNumberInputHeading": "أهلاً وسهلاً بك في سوم",
+  "mobileNumberInputCaption": "ادخل رقم جوالك",
+  "otpInputHeading": "تحقق من رقمك",
+  "otpInputCaption": "ادخل الرمز المكوّن من 6 أرقام المرسل إلى ",
+  "invalidMobileNumberMessage": "الرقم الذي ادخلته غير صحيح، فضلاً اعد كتابته",
+  "usernamePlaceholder": "اسمك الثلاثي",
+  "usernameInputHeading": "خطوة واحدة متبقية",
+  "usernameInputCaption": "ادخل اسمك ",
+  "otpFailMessage": "الرمز الذي ادخلته غير صحيح، فضلاً اعد كتابته",
+  "otpRequestMessage": "يمكنك طلب رمز آخر بعد",
+  "otpResend": "إعادة إرسال الرمز",
+  "mobileNumberButtonTitle": "تسجيل الدخول",
+  "otpButtonTitle": "تحقق",
+  "usernameButtonTitle": "تسجيل الدخول",
+  "loginRequired": "سجّل دخولك الآن لعرض المنتجات التي قمت بمشاهدتها مؤخراً",
+  "requestAnotherOTP": "يمكنك طلب رمز دخول آخر بعد دقيقة",
+  "usernameIsShort": "يجب أن يحتوي اسم المستخدم على 5 أحرف على الأقل",
+  "usernameIsAnEmail": "لا يمكن أن يكون اسم المستخدم عنوان بريد إلكتروني",
+  "usernameContainsInvalidCharacter": "لا يمكن أن يحتوي اسم المستخدم على أحرف أو أرقام خاصة"
+}

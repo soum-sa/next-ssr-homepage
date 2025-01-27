@@ -1,0 +1,12 @@
+{
+  "newQuestion": "New Question",
+  "placeholder": "Write your question directly to the seller here",
+  "MAX_LENGTH_ERROR": "* Question (maximum 100 characters)",
+  "CONTACT_INFO_ERROR": "* Please write a question that does not include any personal contact information",
+  "ABWAB_WORD_ERROR": "* Please write a question without any personal information or external platform references",
+  "submitButton": "Send Seller",
+  "questionSentHeading": "Your question has been successfully sent!",
+  "questionSentDescription": "Review previously asked questions about this product or <link>download the app</link> to view seller response to your question",
+  "dailyAskQuestionLimitMessage": "* You've exceeded the question limit for today. Try again tomorrow",
+  "monthlyAskQuestionLimitMessage": "* You've exceeded the monthly question limit. Please try again next month"
+}

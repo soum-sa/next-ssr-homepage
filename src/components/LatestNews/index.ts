@@ -1,0 +1,1 @@
+export { newsArticleSchema } from './newsArticleSchema';

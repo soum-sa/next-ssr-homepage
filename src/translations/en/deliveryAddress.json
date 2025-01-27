@@ -1,0 +1,15 @@
+{
+  "title": "Delivery Address",
+  "district": "District",
+  "streetName": "Street Name",
+  "city": "City",
+  "postalCode": "Postal Code",
+  "yourPostalCode": "Your Postal Code",
+  "selectYourCity": "Select Your City",
+  "save": "Save",
+  "changeAddress": "Change Address",
+  "streetNameError": "Please enter street name to proceed with the purchase",
+  "districtError": "Please enter district to proceed with the purchase",
+  "cityError": "Please select your city to proceed with the purchase",
+  "postalCodeError": "Please enter postal code to proceed with the purchase"
+}

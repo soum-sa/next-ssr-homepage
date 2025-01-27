@@ -1,0 +1,1 @@
+export { fontSizes } from "./fontSizes";

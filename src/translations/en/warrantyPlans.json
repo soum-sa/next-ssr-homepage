@@ -1,0 +1,13 @@
+{
+  "currency": "SAR",
+  "lessDetails": "Less details",
+  "moreDetails": "More Details",
+  "heading": "Shield your purchase with soum's warranty plans",
+  "subHeading": "Add at checkout for ultimate peace of mind!",
+  "modalHeading": "Soum's warranty plans",
+  "gotIt": "Got It",
+  "months": "Months",
+  "planCovers": "Plan covers:",
+  "backButton": "Back",
+  "validFor": "Valid for {warrantyPeriod}"
+}

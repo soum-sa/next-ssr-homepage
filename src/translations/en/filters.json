@@ -1,0 +1,18 @@
+{
+  "filterBy": "Filter By",
+  "filterPriceTitle": "Price Range",
+  "filterCategoryTitle": "Category",
+  "filterBrandTitle": "Brand",
+  "clearAll": "Clear All",
+  "clear": "Clear",
+  "price": "Price",
+  "min": "Min",
+  "max": "Max",
+  "apply": "Apply",
+  "showMore": "Show More",
+  "MIN_VALUE_GREATER": "Enter a value below the maximum value",
+  "MAX_VALUE_LOWER": "Enter a value above the minimum value",
+  "EQUAL_VALUES": "Minimum and maximum values cannot be the same",
+  "showAllResults": "Show All Results",
+  "showNumberResults": "Show <number></number> Results"
+}

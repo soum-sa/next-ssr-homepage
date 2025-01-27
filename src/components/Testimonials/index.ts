@@ -1,0 +1,1 @@
+export { reviewSchema } from './reviewSchema';

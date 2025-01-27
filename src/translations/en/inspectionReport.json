@@ -1,0 +1,16 @@
+{
+  "realEstateHeaderTitle": "Real Estate Inspection Report",
+  "carHeaderTitle": "Car Inspection Report",
+  "realEstateDescriptionSubtitle": "Our properties are thoroughly inspected to ensure quality and compliance",
+  "carDescriptionSubtitle": "Our used cars are carefully inspected and examined according to precise criteria",
+  "back": "Back",
+  "inspectedOn": "Inspected on ",
+  "pointsChecked": "+{{num}} Point checked",
+  "passed": "Passed",
+  "imperfection": "Imperfection",
+  "viewFullInspection": "View Full Inspection Report",
+  "inspectionReport": "Inspection Report",
+  "viewImages": "View images",
+  "imageCounter": "{current} of {total} images",
+  "thumbnailAlt": "Thumbnail Image"
+}

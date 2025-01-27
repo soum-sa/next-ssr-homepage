@@ -1,0 +1,84 @@
+{
+  "soumLogo": {
+    "linkText": "Home - SOUM",
+    "imgText": "Soum Logo - Home"
+  },
+  "appleIcon": {
+    "linkText": "Download the SOUM App on Apple Store",
+    "imgText": "Apple Store Badge - Download the SOUM App"
+  },
+  "androidIcon": {
+    "linkText": "Download the SOUM App on Google Play",
+    "imgText": "Google Play Badge - Download the SOUM App"
+  },
+  "downloadAppIOS": {
+    "linkText": "Download the SOUM App on Apple Store",
+    "imgText": "Apple Store Badge - Download the SOUM App"
+  },
+  "downloadAppAndroid": {
+    "linkText": "Download the SOUM App on Google Play",
+    "imgText": "Google Play Badge - Download the SOUM App"
+  },
+  "xIcon": {
+    "linkText": "Follow us on Twitter"
+  },
+  "instagramIcon": {
+    "linkText": "Follow us on Instagram"
+  },
+  "facebookIcon": {
+    "linkText": "Follow us on Facebook"
+  },
+  "whatsappIcon": {
+    "linkText": "Chat with us on WhatsApp"
+  },
+  "tiktokIcon": {
+    "linkText": "Follow us on TikTok"
+  },
+  "linkedInIcon": {
+    "linkText": "Follow us on LinkedIn"
+  },
+  "searchButton": {
+    "buttonText": "Search action button",
+    "iconText": "Search icon button"
+  },
+  "menuButton": {
+    "buttonText": "Open menu",
+    "iconText": "Open menu"
+  },
+  "leftIconButton": {
+    "buttonText": "Go back",
+    "iconText": "Go back"
+  },
+  "rightIconButton": {
+    "buttonText": "Go forward",
+    "iconText": "Go forward"
+  },
+  "closeButton": {
+    "buttonText": "Close action button",
+    "iconText": "Close action button"
+  },
+  "productDetailsTab": {
+    "overview": "Product overview section",
+    "accessories": "Product accessories section",
+    "productDescription": "Product description section",
+    "faq": "FAQ section"
+  },
+  "categoryIcon": {
+    "linkText": "Navigate to {enName} category",
+    "imgText": "{enName} Icon - Categories"
+  },
+  "qrCode": {
+    "imgText": "QR code for downloading the SOUM app"
+  },
+  "paymentSelect": {
+    "all": "Payment method selection on a checkout page, featuring options for Mada and Visa. and Also installment services such as Tabby and Tamara, allowing you to purchase in easy installments"
+  },
+  "searchProducts": "search products",
+  "filterProducts": "filter products",
+  "viewBanners": "view banners",
+  "viewReviews": "view reviews",
+  "viewMoreBrands": "view more brands",
+  "viewMoreModels": "view more models",
+  "latestOnSoum": "Latest on Soum",
+  "findOutMoreAboutUs": "Find out more about us"
+}

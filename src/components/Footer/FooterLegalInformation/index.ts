@@ -1,0 +1,1 @@
+export { FooterLegalInformation } from './FooterLegalInformation';

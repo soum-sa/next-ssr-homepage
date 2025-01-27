@@ -1,0 +1,32 @@
+{
+  "titlePartOne": "No matter how big your dreams are, we make them come true. Soum offers flexible and accessible financing options to support you every step of the way",
+  "titlePartTwo": "",
+  "bankTitle1": "Abdul Latif Jameel financing requirements:",
+  "bank1Requirements": [
+    "Employment for more than 3 months.",
+    "There are no significant legal obligations.",
+    "Minimum salary of 3,000 SAR.",
+    "Salary certificate verified by the Chamber of Commerce (private sector), including salary, job title, and employment start date.",
+    "Valid ID.",
+    "Valid Saudi driver's license.",
+    "No traffic violations.",
+    "For non-Saudi applicants, all professions accepted except private driver.",
+    "Retirees: Accepted up to age 65.",
+    "All private and government sectors accepted.",
+    "If you have a supported mortgage loan, provide proof of the 'agreement.'",
+    "Deduction rate not exceeding 45%.",
+    "Fixed financing rate throughout the loan term."
+  ],
+  "bankTitle2": "TAYSEER financing requirements:",
+  "bank2Requirements": [
+    "Financing period ranges from 6 months to 60 months.",
+    "The age must be at least 19 years and no more than 65 years at the end of the financing contract.",
+    "The minimum salary is 4,000 SAR.",
+    "Service duration must be at least 3 months for the public sector, 6 months for the private sector, and 1 year for residents.",
+    "A copy of a valid national ID/residency permit.",
+    "A valid driver's license.",
+    "A salary certificate (certified by the Chamber of Commerce for the private sector)."
+  ],
+  "iUnderstand": "I Understand",
+  "walletImageAlt": "Image of a wallet"
+}

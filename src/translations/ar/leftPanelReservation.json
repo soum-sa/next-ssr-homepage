@@ -1,0 +1,107 @@
+{
+  "confirmDeletePdfTitle": "متأكد من حذف المستند؟",
+  "confirmDeletePdfSubtitle": "لا يمكنك الانتقال إلى الخطوة التالية حتى تقوم بإرفاق جميع المستندات المطلوبة",
+  "return": "العودة",
+  "delete": "حذف",
+  "uploadFileAlt": "تحميل ملف",
+  "deleteFileAlt": "حذف ملف",
+  "preview": "معاينة المستند",
+  "viewDocument": "عرض المستند",
+  "attachProofOfIncome": "أرفق نسخة من رخصة القيادة",
+  "riyal": "ريال",
+  "cash": "كاش",
+  "cashStep1": "تحجزها",
+  "cashStep2": "تعاينها",
+  "cashStep3": "تكمل المبلغ",
+  "cashStep4": "تستلمها",
+  "cashDescription": "اضمن حجز السيارة من خلال دفع عربون <semibold>مسترد</semibold> بقيمة <price></price> ريال سعودي فقط. إذا قمت بالتحقق والموافقة، ادفع المبلغ المتبقي لتملكها بسرعة",
+  "cashAdditionalNote": "ملاحظة: نضمن لك إسترداد كامل مبلغ الحجز إن غيرت رأيك. <semibold>احجز و أنت متطمن</semibold>",
+  "finance": "تمويل",
+  "financeDescription": "اضمن سرعة قبول طلبك، وتسهيل جميع الإجراءات التمويلية بدفع <semibold>رسوم إدارية</semibold> بقيمة {price} ريال.",
+  "financeLoanApproval": "أسرع مدة لإتمام طلب التمويل 5 أيام",
+  "financingConditions": "شروط التمويل",
+  "financeStep1": "نقدم الطلب",
+  "financeStep2": "نسرع الموافقة البنكية",
+  "financeStep3": "تحجزهابـ {price} ريال",
+  "financeStep4": "تعاينها",
+  "financeStep5": "تستلمها",
+  "FILE_SIZE_EXCEEDS_LIMIT": "يجب أن لا يتجاوز حجم الملف 5 ميجابايت",
+  "currentStepAndTotalSteps": "خطوة {currentStep} من {totalSteps}",
+  "selectPaymentPlan": {
+    "title": "اختر طريقة الدفع المناسبة لك",
+    "heading": "سوم توفر لك طرق دفع متنوعة وآمنة، لإمتلاك سيارة أحلامك بأسرع وقت"
+  },
+  "personalInformation": {
+    "title": "المعلومات الشخصية",
+    "heading": "سهلناها عليك، ووفرنا لك طرق تمويلية مرنة وميسرة ",
+    "instructionHeading": "أدخل بياناتك للحصول على سيارتك في أسرع وقت ممكن",
+    "fullNameLabel": "الاسم الكامل",
+    "fullNamePlaceholder": "أدخل الاسم الكامل",
+    "REQUIRED_FULL_NAME_FIELD": "فضلاً، أدخل اسمك الكامل",
+    "INVALID_FULL_NAME_FIELD": "فضلاً، أدخل اسمك الكامل بشكل صحيح لتتمكن من تقديم طلب التمويل",
+    "cityLabel": "المدينة",
+    "cityPlaceholder": "اختر مدينتك",
+    "REQUIRED_CITY_FIELD": "فضلاً، اختر مدينتك",
+    "nationalIdLabel": "أرفق نسخة من الهوية الوطنية / الإقامة",
+    "nationalIdPlaceholder": "أرفق نسخة من الهوية الوطنية / الإقامة",
+    "REQUIRED_NATIONAL_ID_FIELD": "فضلاً، أرفق نسخة من الهوية الوطنية / الإقامة",
+    "driversLicenseLabel": "أرفق نسخة من رخصة القيادة",
+    "driversLicensePlaceholder": "أرفق نسخة من رخصة القيادة",
+    "REQUIRED_DRIVER_LICENSE_FIELD": "فضلاً، أرفق نسخة من رخصة القيادة",
+    "selectYourCity": "اختر مدينتك"
+  },
+  "workInformation": {
+    "title": "معلومات العمل",
+    "selectEmployerLabel": "جهة العمل",
+    "REQUIRED_EMPLOYER_FIELD": "فضلاً، اختر جهة العمل",
+    "workEntityLabel": "مكان العمل",
+    "workEntityPlaceholder": "أدخل اسم مكان العمل",
+    "REQUIRED_WORK_ENTITY_FIELD": "فضلاً، أدخل اسم مكان العمل"
+  },
+  "documentUpload": {
+    "heading": "أرفق المستندات المطلوبة لمراجعة طلبك، والموافقة عليه في أسرع وقت",
+    "isSalaryStampedLabel": "هل تم ختم شهادة تعريف الراتب؟",
+    "REQUIRED_SALARY_STAMPED_FIELD": "فضلاً، اختر إذا كانت شهادة تعريف الراتب مختومة",
+    "governmentIsSalaryStampedLabel": "هل شهادة تعريف الراتب متاحة عبر رابط أو باركود؟",
+    "yes": "نعم",
+    "no": "لا",
+    "salaryProofLabel": "أرفق شهادة تعريف الراتب، وكشف الحساب البنكي",
+    "governmentSalaryProofLabel": "أرفق شهادة تعريف الراتب",
+    "retiredSalaryProofLabel": "إرفاق شهادة المعاش",
+    "salaryProofPlaceholder": "أرفق شهادة تعريف الراتب، وكشف الحساب البنكي",
+    "REQUIRED_SALARY_PROOF_FIELD": "فضلاً، أرفق شهادة تعريف الراتب",
+    "whatMustInclude": "ماذا يجب أن يتضمن؟",
+    "whatMustIncludeList": [
+      "اسم العميل، رقم الهوية، الجنسية، المهنة، تاريخ التوظيف، والراتب",
+      "كشف حساب بنكي لآخر 3 أشهر"
+    ],
+    "governmentWhatMustIncludeList": ["شهادة الراتب مختومة من جهة حكومية مع توفير رابط تحقق أو باركود"],
+    "insuranceProofLabel": "أرفق إثبات التأمين",
+    "insuranceProofPlaceholder": "أرفق إثبات التأمين",
+    "REQUIRED_INSURANCE_PROOF_FIELD": "فضلاً، أرفق إثبات التأمين",
+    "insuranceAdditionalInfo": "يجب أن يكون تاريخ إصدار التأمين لا يتجاوز 10 أيام"
+  },
+  "cancelApplicationModal": {
+    "title": "إلغاء الطلب",
+    "description": "لن يتم حفظ معلوماتك، وستحتاج إلى إعادة تعبئة بياناتك إذا تقدمت مرة أخرى!",
+    "cancel": "إلغاء",
+    "complete": "اكتمال الطلب"
+  },
+  "financingApplicationFeeModal": {
+    "title": "رسوم طلب التمويل:",
+    "description": "هي رسوم إدارية غير مستردة تشمل ضريبة القيمة المضافة",
+    "additionalInformation": "سوم تساهم في تقديم طلبك، وتسريع الموافقة البنكية",
+    "iUnderstand": "فهمت"
+  },
+  "reservationFeeModal": {
+    "title": "هل قيمة الحجز مستردة؟",
+    "description": "يتم استرداد مبلغ الحجز بالكامل إذا ما جازت لك السيارة",
+    "nonRefundable": "بإستثناء الحالات التالية:",
+    "nonRefundableList": [
+      "مرور  أكثر من 48 ساعة منذ لحظة إيداع مبلغ الحجز، ولم نتلقى منك أي رد.",
+      "في حال تم شراء السيارة بنجاح،  سيتم خصم قيمة الحجز من إجمالي المبلغ."
+    ],
+    "iUnderstand": "فهمت"
+  },
+  "purchaseSteps": "خطوات الشراء"
+}
