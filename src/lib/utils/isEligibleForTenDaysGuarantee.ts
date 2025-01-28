@@ -1,5 +1,5 @@
-const excludedCategories = ['Cars', 'Car Plates'];
-const eligibleCategories = ['Mobiles', 'Tablets'];
+const excludedCategories = ["Cars", "Car Plates"];
+const eligibleCategories = ["Mobiles", "Tablets"];
 
 export const isEligibleForTenDaysGuarantee = ({
   isMerchant,
@@ -11,12 +11,15 @@ export const isEligibleForTenDaysGuarantee = ({
   isHomePage?: boolean;
 }) => {
   if (isHomePage) {
-    return !excludedCategories.includes(categoryName ?? '');
+    return !excludedCategories.includes(categoryName ?? "");
   }
 
-  if (excludedCategories.includes(categoryName ?? '')) {
+  if (excludedCategories.includes(categoryName ?? "")) {
     return false;
   }
 
-  return isMerchant || (!isMerchant && eligibleCategories.includes(categoryName ?? ''));
+  return (
+    isMerchant ||
+    (!isMerchant && eligibleCategories.includes(categoryName ?? ""))
+  );
 };
