@@ -5,7 +5,8 @@ export const getHomepageData = async () => {
   const data = await fetch(
     "https://api-staging.development.soum.sa/homepage/data"
   );
+  const resp = await data.json();
+  const unwrapped = unwrapResponse(resp);
 
-  const unwrapped = unwrapResponse(data);
   return unwrapped as HomepageDataResponse;
 };

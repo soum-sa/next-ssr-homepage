@@ -2,11 +2,16 @@
 
 import { useState, useEffect } from "react";
 
-import { useCloudImgAdminSetting } from "@app/factory/usecases";
 interface IUseCloudImageProps {
   src: string;
   altSrc: string;
 }
+
+const CloudImageData = {
+  id: "65154264a66dac003e441def",
+  name: "cloudimage_image_optimization_web",
+  value: true,
+};
 
 /**
  * Depending on the value of cloudimage_image_optimization_web
@@ -17,9 +22,7 @@ interface IUseCloudImageProps {
  * use cloudimg
  */
 export function useCloudImage(props: IUseCloudImageProps) {
-  const { data } = useCloudImgAdminSetting();
-
-  const cloudImgAdminSetting = data?.value ?? false;
+  const cloudImgAdminSetting = CloudImageData?.value ?? false;
 
   const choosenSource = cloudImgAdminSetting ? props.src : props.altSrc;
 

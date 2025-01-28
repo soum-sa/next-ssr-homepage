@@ -1,8 +1,8 @@
 import { css } from "@panda-styled-system/css";
 
-import { Footer } from "@src/components/Footer";
+// import { Footer } from "@src/components/Footer";
 import { Header } from "@src/components/Header";
-import { HeaderBanner } from "@src/components/HeaderBanner";
+// import { HeaderBanner } from "@src/components/HeaderBanner";
 
 type PublicRootLayoutProps = {
   children: React.ReactNode;

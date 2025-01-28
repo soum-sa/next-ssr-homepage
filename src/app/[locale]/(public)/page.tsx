@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import { Suspense } from "react";
 import { userAgent } from "next/server";
 import dynamicLoading from "next/dynamic";
 import { headers } from "next/headers";
@@ -50,7 +51,7 @@ export default async function HomePage({ params: { locale } }: HomePageProps) {
 
   const userAgentObj = userAgent({ headers: headers() });
   const homepageData = await getHomepageData();
-
+  console.log("homepageData", homepageData);
   return (
     <>
       <script
@@ -63,16 +64,17 @@ export default async function HomePage({ params: { locale } }: HomePageProps) {
       />
 
       <SoumValues />
-      {/* {userAgentObj?.device?.type === "mobile" ? (
+      {userAgentObj?.device?.type === "mobile" ? (
         <MobileHomepageUpperBanners banners={homepageData.banners} />
       ) : (
         <DesktopHomepageUpperBanners banners={homepageData.banners} />
-      )} */}
-
-      {/* <HomeCollections
-        homepageData={homepageData}
-        recommendedProductsTypesense={[]}
-      /> */}
+      )}
+      <Suspense fallback={<>LOADING HOMEPAGE PRODUCTS</>}>
+        <HomeCollections
+          homepageData={JSON.parse(JSON.stringify(homepageData))}
+          recommendedProductsTypesense={[]}
+        />
+      </Suspense>
       <Testimonials />
       <LatestNews />
     </>

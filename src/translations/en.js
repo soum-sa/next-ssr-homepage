@@ -1,4 +1,3 @@
-import blogBanner from "./en/blogBanner.json";
 import blogCard from "./en/blogCard.json";
 import blogList from "./en/blogList.json";
 import categoryRotator from "./en/categoryRotator.json";
@@ -64,7 +63,6 @@ import warranties from "./en/warranties.json";
 import accessories from "./en/accessories.json";
 
 const translations = {
-  blogBanner,
   blogCard,
   blogList,
   categoryRotator,

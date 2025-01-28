@@ -18,7 +18,7 @@ export function Collections({
   homepageData: HomepageDataResponse;
 }) {
   if (isEmpty(homepageData?.feeds)) return null;
-
+  console.log("homepageData", homepageData);
   return (
     <div className={collections_container}>
       <MediaQueryWrapper
